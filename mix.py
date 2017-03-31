@@ -1,0 +1,22 @@
+ALT_MIX = [
+{"ID":1,"Song":"Trauma","Artist":"Foxygen","Album":"Hang"},
+{"ID":2,"Song":"How Are You True","Artist":"Cage The Elephant","Album":"Tell Me I'm pretty"},
+{"ID":3,"Song":"Salad Days","Artist":"Mac Demarco","Album":"Salad Days"},
+{"ID":4,"Song":"South","Artist":"Hippo Campus","Album":"South"},
+{"ID":5,"Song":"Word by Word","Artist":"Bombay Bicycle Club","Album":"Flaws"},
+{"ID":6,"Song":"Sound & Color","Artist":"Alabama Shakes","Album":"Sound & Color"},
+{"ID":7,"Song":"Left Hand Free","Artist":"alt-J","Album":"This Is All Yous"},
+{"ID":8,"Song":"Ragged Wood","Artist":"Fleet Foxes","Album":"Fleet Foxes"},
+{"ID":9,"Song":"Flower Drum Song","Artist":"Cold War Kids","Album":"Hold My Home"},
+{"ID":10,"Song":"This Is The Life","Artist":"Two Door Cinema Club","Album":"Tourist History"},
+{"ID":11,"Song":"Give Me A Try","Artist":"The Wombats","Album":"Glitterbug"},
+{"ID":12,"Song":"Mr. Brightside","Artist":"The Killers","Album":"Hot Fuss"},
+{"ID":13,"Song":"Anagram","Artist":"Young The Giant","Album":"Mind Over Matter"},
+{"ID":14,"Song":"Tighten Up","Artist":"The Black Keys","Album":"Brothers"},
+{"ID":15,"Song":"Fire Escape","Artist":"Foster the People","Album":"Supermodel"},
+{"ID":16,"Song":"Float On","Artist":"Modest Mouse","Album":"Good News For People Who Love Bad News"},
+{"ID":17,"Song":"R U Mine?","Artist":"Arctic Monkeys","Album":"AM"},
+{"ID":18,"Song":"No One's Gonna Love You","Artist":"Band of Horses","Album":"Cease To Begin"},
+{"ID":19,"Song":"Step","Artist":"Vampire Weekend","Album":"Modern Vampires of the City"},
+{"ID":20,"Song":"The Less I Know The Better","Artist":"Tame Impala","Album":"Currents"}
+];

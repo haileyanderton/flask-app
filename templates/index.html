@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block body %}
+
+<h1>Hailey's Alternative Playlist</h1>
+
+<p>Click on a link below to get a sneak peak into the tunes in Hailey's Spotify playlist.</p>
+
+<ul id="menu">
+  {% for pair in pairs %}
+
+  <li value="{{ pair[0] }}"><a href="{{ url_for('song', id=id) }}">{{ pair[1] }}</a></li>
+
+  {% endfor %}
+</ul>
+
+{% endblock %}
