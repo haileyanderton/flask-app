@@ -6,10 +6,10 @@
 
 	<title>{{ the_title }}</title>
 
-<link href="https://fonts.googleapis.com/css?family=Montserrat|Raleway" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Bangers|Karla" rel="stylesheet">
 
-	<!-- note the special href for files in the Flask "static" folder -->
-	<link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+
+	<link rel= "stylesheet" type= "text/css" href= "{{ 	url_for('static',filename='main.css') }}">
 
 </head>
 
@@ -17,7 +17,6 @@
 
 <div id="container">
 
-  <!-- Jinja2 directives: page contents will go between them -->
   {% block body %}
   {% endblock %}
 

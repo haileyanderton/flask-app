@@ -1,0 +1,48 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+body {
+  background-color: #091526;
+}
+
+#container {
+  margin: auto;
+  padding: 3%;
+  max-width: 80%;
+  background-color: #fff;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Bangers', sans-serif;
+  font-size: 50pt;
+  padding: 0;
+  color: #547270;
+}
+
+p {
+  font-family: 'Karla', sans-serif;
+  color: #091526;
+  text-align: center;
+  font-size: 15pt;
+  margin: 2%;
+  padding: 1%
+}
+ul {
+  font-family: 'Karla', sans-serif;
+  color: #fff;
+  list-style-type: none;
+}
+
+li {
+  padding-top: 1%;
+  color: #3B617A;
+}
+
+a {
+  font-family: 'Karla', sans-serif;
+}

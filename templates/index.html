@@ -9,7 +9,7 @@
 <ul id="menu">
   {% for pair in pairs %}
 
-  <li value="{{ pair[0] }}"><a href="{{ url_for('song', id=id) }}">{{ pair[1] }}</a></li>
+  <li value="{{ pair[0] }}"><a href="{{ url_for('song', id=pair[0]) }}">{{ pair[1] }}</a></li>
 
   {% endfor %}
 </ul>
